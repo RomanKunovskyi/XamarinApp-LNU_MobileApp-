@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:xamarin_mobile_app.ViewModels"
+             x:Class="xamarin_mobile_app.Views.GitHubUserDetailPage"
+             Title="{Binding Title}">
+
+    <ContentPage.BindingContext>
+        <vm:GitHubUserDetailViewModel />
+    </ContentPage.BindingContext>
+    
+    <ContentPage.Content>
+        <StackLayout x:Name="StackLayoutMain" Orientation="Vertical" HorizontalOptions="Center" VerticalOptions="Center">
+            <Image HeightRequest="250"
+                   WidthRequest="250"
+                   Aspect="AspectFill" 
+                   Source="{Binding AvatarUrl}"/>
+            <StackLayout Orientation="Vertical"
+                         HorizontalOptions="Center"
+                         VerticalOptions="Center">
+                <Label FontSize="30" 
+                    Text="{Binding Login}"/>
+                <Button Text="Open GitHub"
+                    Command="{Binding OpenWebCommand}"
+                     CornerRadius="20"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

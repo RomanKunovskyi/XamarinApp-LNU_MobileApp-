@@ -1,0 +1,109 @@
+{
+  "version": 2,
+  "dgSpecHash": "oreYB7pffEMxTt1CJFjlNsl2bGHljb22glhf6XsxrxWB9rfMbj0aiuhMAdFFsMcsylv6v+M9za7LDHRzpJJ55w==",
+  "success": false,
+  "projectFilePath": "H:\\LNU\\Magistr\\MobileApp\\xamarin-mobile-app\\xamarin-mobile-app\\xamarin-mobile-app.UWP\\xamarin-mobile-app.UWP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\roman\\.nuget\\packages\\microsoft.net.native.compiler\\2.2.11-rel-30601-02\\microsoft.net.native.compiler.2.2.11-rel-30601-02.nupkg.sha512",
+    "C:\\Users\\roman\\.nuget\\packages\\microsoft.net.uwpcoreruntimesdk\\2.2.13\\microsoft.net.uwpcoreruntimesdk.2.2.13.nupkg.sha512",
+    "C:\\Users\\roman\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\roman\\.nuget\\packages\\microsoft.netcore.universalwindowsplatform\\6.2.13\\microsoft.netcore.universalwindowsplatform.6.2.13.nupkg.sha512",
+    "C:\\Users\\roman\\.nuget\\packages\\microsoft.ui.xaml\\2.4.3\\microsoft.ui.xaml.2.4.3.nupkg.sha512",
+    "C:\\Users\\roman\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\roman\\.nuget\\packages\\runtime.win10-arm-aot.microsoft.netcore.universalwindowsplatform\\6.2.13\\runtime.win10-arm-aot.microsoft.netcore.universalwindowsplatform.6.2.13.nupkg.sha512",
+    "C:\\Users\\roman\\.nuget\\packages\\runtime.win10-arm.microsoft.net.native.compiler\\2.2.11-rel-30601-02\\runtime.win10-arm.microsoft.net.native.compiler.2.2.11-rel-30601-02.nupkg.sha512",
+    "C:\\Users\\roman\\.nuget\\packages\\runtime.win10-arm.microsoft.net.native.sharedlibrary\\2.2.8-rel-30601-02\\runtime.win10-arm.microsoft.net.native.sharedlibrary.2.2.8-rel-30601-02.nupkg.sha512",
+    "C:\\Users\\roman\\.nuget\\packages\\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\\2.2.13\\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk.2.2.13.nupkg.sha512",
+    "C:\\Users\\roman\\.nuget\\packages\\runtime.win10-arm.microsoft.netcore.universalwindowsplatform\\6.2.13\\runtime.win10-arm.microsoft.netcore.universalwindowsplatform.6.2.13.nupkg.sha512",
+    "C:\\Users\\roman\\.nuget\\packages\\runtime.win10-arm64-aot.microsoft.netcore.universalwindowsplatform\\6.2.13\\runtime.win10-arm64-aot.microsoft.netcore.universalwindowsplatform.6.2.13.nupkg.sha512",
+    "C:\\Users\\roman\\.nuget\\packages\\runtime.win10-arm64.microsoft.net.native.compiler\\2.2.11-rel-30601-02\\runtime.win10-arm64.microsoft.net.native.compiler.2.2.11-rel-30601-02.nupkg.sha512",
+    "C:\\Users\\roman\\.nuget\\packages\\runtime.win10-arm64.microsoft.net.native.sharedlibrary\\2.2.8-rel-30601-02\\runtime.win10-arm64.microsoft.net.native.sharedlibrary.2.2.8-rel-30601-02.nupkg.sha512",
+    "C:\\Users\\roman\\.nuget\\packages\\runtime.win10-x64-aot.microsoft.netcore.universalwindowsplatform\\6.2.13\\runtime.win10-x64-aot.microsoft.netcore.universalwindowsplatform.6.2.13.nupkg.sha512",
+    "C:\\Users\\roman\\.nuget\\packages\\runtime.win10-x64.microsoft.net.native.compiler\\2.2.11-rel-30601-02\\runtime.win10-x64.microsoft.net.native.compiler.2.2.11-rel-30601-02.nupkg.sha512",
+    "C:\\Users\\roman\\.nuget\\packages\\runtime.win10-x64.microsoft.net.native.sharedlibrary\\2.2.8-rel-30601-02\\runtime.win10-x64.microsoft.net.native.sharedlibrary.2.2.8-rel-30601-02.nupkg.sha512",
+    "C:\\Users\\roman\\.nuget\\packages\\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\\2.2.13\\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk.2.2.13.nupkg.sha512",
+    "C:\\Users\\roman\\.nuget\\packages\\runtime.win10-x64.microsoft.netcore.universalwindowsplatform\\6.2.13\\runtime.win10-x64.microsoft.netcore.universalwindowsplatform.6.2.13.nupkg.sha512",
+    "C:\\Users\\roman\\.nuget\\packages\\runtime.win10-x86-aot.microsoft.netcore.universalwindowsplatform\\6.2.13\\runtime.win10-x86-aot.microsoft.netcore.universalwindowsplatform.6.2.13.nupkg.sha512",
+    "C:\\Users\\roman\\.nuget\\packages\\runtime.win10-x86.microsoft.net.native.compiler\\2.2.11-rel-30601-02\\runtime.win10-x86.microsoft.net.native.compiler.2.2.11-rel-30601-02.nupkg.sha512",
+    "C:\\Users\\roman\\.nuget\\packages\\runtime.win10-x86.microsoft.net.native.sharedlibrary\\2.2.8-rel-30601-02\\runtime.win10-x86.microsoft.net.native.sharedlibrary.2.2.8-rel-30601-02.nupkg.sha512",
+    "C:\\Users\\roman\\.nuget\\packages\\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\\2.2.13\\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk.2.2.13.nupkg.sha512",
+    "C:\\Users\\roman\\.nuget\\packages\\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\\6.2.13\\runtime.win10-x86.microsoft.netcore.universalwindowsplatform.6.2.13.nupkg.sha512",
+    "C:\\Users\\roman\\.nuget\\packages\\win2d.uwp\\1.20.0\\win2d.uwp.1.20.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project xamarin-mobile-app is not compatible with uap10.0.16299 (UAP,Version=v10.0.16299). Project xamarin-mobile-app supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "xamarin-mobile-app",
+      "targetGraphs": [
+        "UAP,Version=v10.0.16299"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project xamarin-mobile-app is not compatible with uap10.0.16299 (UAP,Version=v10.0.16299) / win10-arm. Project xamarin-mobile-app supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "xamarin-mobile-app",
+      "targetGraphs": [
+        "UAP,Version=v10.0.16299/win10-arm"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project xamarin-mobile-app is not compatible with uap10.0.16299 (UAP,Version=v10.0.16299) / win10-arm-aot. Project xamarin-mobile-app supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "xamarin-mobile-app",
+      "targetGraphs": [
+        "UAP,Version=v10.0.16299/win10-arm-aot"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project xamarin-mobile-app is not compatible with uap10.0.16299 (UAP,Version=v10.0.16299) / win10-arm64-aot. Project xamarin-mobile-app supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "xamarin-mobile-app",
+      "targetGraphs": [
+        "UAP,Version=v10.0.16299/win10-arm64-aot"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project xamarin-mobile-app is not compatible with uap10.0.16299 (UAP,Version=v10.0.16299) / win10-x64. Project xamarin-mobile-app supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "xamarin-mobile-app",
+      "targetGraphs": [
+        "UAP,Version=v10.0.16299/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project xamarin-mobile-app is not compatible with uap10.0.16299 (UAP,Version=v10.0.16299) / win10-x64-aot. Project xamarin-mobile-app supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "xamarin-mobile-app",
+      "targetGraphs": [
+        "UAP,Version=v10.0.16299/win10-x64-aot"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project xamarin-mobile-app is not compatible with uap10.0.16299 (UAP,Version=v10.0.16299) / win10-x86. Project xamarin-mobile-app supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "xamarin-mobile-app",
+      "targetGraphs": [
+        "UAP,Version=v10.0.16299/win10-x86"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project xamarin-mobile-app is not compatible with uap10.0.16299 (UAP,Version=v10.0.16299) / win10-x86-aot. Project xamarin-mobile-app supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "xamarin-mobile-app",
+      "targetGraphs": [
+        "UAP,Version=v10.0.16299/win10-x86-aot"
+      ]
+    }
+  ]
+}

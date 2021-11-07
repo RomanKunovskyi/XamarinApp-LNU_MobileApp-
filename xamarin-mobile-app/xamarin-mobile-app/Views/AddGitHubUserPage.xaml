@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:xamarin_mobile_app.ViewModels"
+             x:Class="xamarin_mobile_app.Views.AddGitHubUserPage"
+             Title="{Binding Title}">
+
+    <ContentPage.BindingContext>
+        <vm:AddGitHubUserViewModel />
+    </ContentPage.BindingContext>
+
+    <ContentPage.Content>
+        <StackLayout x:Name="StackLayoutMain" Orientation="Vertical" VerticalOptions="Center" HorizontalOptions="Center">
+            <Image HeightRequest="200"
+                   WidthRequest="200"
+                   Aspect="AspectFill"
+                   Source="{Binding AvatarUrl}" />
+
+            <StackLayout>
+                <Grid Grid.Row="1"
+                  ColumnDefinitions="1*,3*">
+                <Label FontSize="20"
+                       Text="Login"
+                       Grid.Column="0"
+                       HorizontalOptions="Center"
+                       VerticalOptions="Center"/>
+                <Entry Text="{Binding Login}"
+                       Grid.Column="1" />
+            </Grid>
+            <Grid ColumnDefinitions="1*,3*">
+                <Label FontSize="20"
+                       Text="Avatar Url"
+                       Grid.Column="0"
+                       HorizontalOptions="Center"
+                       VerticalOptions="Center" />
+                <Entry Text="{Binding AvatarUrl}"
+                       Grid.Column="1" />
+            </Grid>
+            <Grid ColumnDefinitions="1*,3*">
+                <Label HorizontalOptions="Center"
+                       VerticalOptions="Center"
+                       FontSize="20"
+                       Text="Html Url"
+                       Grid.Column="0" />
+                <Entry Text="{Binding HtmlUrl}"
+                       Grid.Column="1" />
+            </Grid>
+            <Button Grid.Row="4"
+                    Text="Save"
+                    Margin="15"
+                    CornerRadius="20"
+                    Command="{Binding SaveCommand}" />
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,1 @@
+H:\LNU\Magistr\MobileApp\xamarin-mobile-app\xamarin-mobile-app\xamarin-mobile-app.UWP\xamarin-mobile-app.UWP.csproj;x86
